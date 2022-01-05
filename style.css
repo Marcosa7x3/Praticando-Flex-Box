@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primeira {
+    width: 10vw;
+    height: 19vh;
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 28px;
+}
+
+.segunda {
+    width: 10vw;
+    height: 19vh;
+    background-color: red;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.terceira {
+    width: 10vw;
+    height: 19vh;
+    background-color: pink;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.quarta {
+    width: 10vw;
+    height: 19vh;
+    background-color: rosybrown;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+header {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+
+header {
+    align-items: center;
+    margin-top: 250px;
+}
+
+body {
+    background-color: black;
+}
